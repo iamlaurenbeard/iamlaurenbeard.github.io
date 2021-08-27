@@ -23,7 +23,7 @@ category: Creative
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_6476.jpg">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0522.jpg">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0522.png">
     </div>
 </div>
 <div class="caption">
@@ -44,7 +44,7 @@ category: Creative
 <!-- row 2 -->
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0339.jpg">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0339.png">
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0612.jpg">
