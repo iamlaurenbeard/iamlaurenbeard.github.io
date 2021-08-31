@@ -12,7 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 icon: # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
@@ -75,16 +74,16 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-#blog_name: working blog  # your blog must have a name for it to show up in the nav bar
-#blog_description: a blog under construction
-#permalink: /blog/:year/:title/
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_description: blog under construction
+permalink: /blog/:year/:title/
 
 # Pagination
-#pagination:
-  #enabled: true
+pagination:
+  enabled: true
 
 # Comments
-#disqus_shortname: lauren # put your disqus shortname
+disqus_shortname: lauren # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -182,7 +181,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
+                                   # navbar on the main page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
