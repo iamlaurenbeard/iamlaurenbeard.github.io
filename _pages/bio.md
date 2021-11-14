@@ -7,7 +7,7 @@ nav: true
 
 profile:
   align: right
-  image: LaurenBeard-015AshleyPierce-001-FINAL.jpg
+  image: LaurenBeard-015AshleyPierce-001-FINAL.png
   address: >
     
 
