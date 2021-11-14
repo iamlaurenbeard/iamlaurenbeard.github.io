@@ -7,7 +7,7 @@ importance: 1
 category: Research
 ---
 
-I work with [Prof. Anna Mueller](https://annasmueller.com){:target="\_blank"}  how social relationships and social contexts shape adolescent health and wellbeing over the transition to adulthood, with a focus on adolescent suicide and suicide clusters. Learn more at the study's website [here](https://www.socialworlds.info){:target="\_blank"} or below:
+I work with [Prof. Anna Mueller](https://annasmueller.com){:target="\_blank"} to study how social relationships and social contexts shape adolescent health and wellbeing over the transition to adulthood, with a focus on adolescent suicide and suicide clusters. Learn more at the study's website [here](https://www.socialworlds.info){:target="\_blank"} or below:
 
 **Social Worlds & Youth Wellbeing Study**
 
