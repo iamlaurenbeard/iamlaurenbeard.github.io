@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Alternate Reality Games
+title: Alternate Reality
 description: Fourcast Lab, Chicago, IL
-img: /assets/img/gradient3.png
+img: /assets/img/gradient5.png
 importance: 5
 category: Creative
 ---

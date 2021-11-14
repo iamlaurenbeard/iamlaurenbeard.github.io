@@ -2,7 +2,7 @@
 layout: page
 title: Social Worlds & Youth Wellbeing
 description: Dept of Sociology, University of Indiana--Bloomington
-img: /assets/img/gradient5.png
+img: /assets/img/gradient1.png
 importance: 1
 category: Research
 ---

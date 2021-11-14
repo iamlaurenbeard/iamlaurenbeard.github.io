@@ -2,7 +2,7 @@
 layout: page
 title: Youth De-institutionalization
 description: Crown School of Social Work, University of Chicago
-img: /assets/img/gradient5.png
+img: /assets/img/gradient2.png
 importance: 1
 category: Research
 ---

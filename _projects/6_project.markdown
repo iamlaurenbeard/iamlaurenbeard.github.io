@@ -2,7 +2,7 @@
 layout: page
 title: Nature Photos
 description: Working collection
-img: /assets/img/gradient5.png
+img: /assets/img/gradient1.png
 importance: 6
 category: Creative
 ---

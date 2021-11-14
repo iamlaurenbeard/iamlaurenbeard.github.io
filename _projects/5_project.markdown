@@ -2,7 +2,7 @@
 layout: page
 title: Health Humanities
 description: Smart Museum of Art, Chicago, IL
-img: /assets/img/gradient1.png
+img: /assets/img/gradient6.png
 importance: 2
 category: Creative
 ---
