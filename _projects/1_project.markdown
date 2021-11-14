@@ -10,6 +10,7 @@ category: Research
 I work with [Prof. Anna Mueller](https://annasmueller.com){:target="\_blank"}  how social relationships and social contexts shape adolescent health and wellbeing over the transition to adulthood, with a focus on adolescent suicide and suicide clusters. Learn more at the study's website [here](https://www.socialworlds.info){:target="\_blank"} or below:
 
 **Social Worlds & Youth Wellbeing Study**
+
 This study will examine youth’s experiences of connectedness, social support, help-seeking, and help-giving through (1) qualitative interviews with youth and (2) participant observation of youths’ social lives in schools and communities. We will also examine how social environments facilitate mental health and help-seeking among youth. Our goals are to better understand youth suicide, suicide clusters, & help-seeking and to improve suicide prevention in schools and communities.
 
 Primary Research Questions: How can we build connectedness in schools and communities that facilitates a sense of belonging and effective help-seeking among youth? How can we build better mental health safety systems in schools and communities to better help youth who are struggling & improve suicide prevention?
