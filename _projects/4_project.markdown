@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terrarium Alternate Reality Game
+title: Alternate Reality Games
 description: Fourcast Lab, Chicago, IL
 img: /assets/img/gradient3.png
 importance: 5

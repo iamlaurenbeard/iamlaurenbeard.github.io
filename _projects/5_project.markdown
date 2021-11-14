@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Health Humanities in Times of Crisis
+title: Health Humanities
 description: Smart Museum of Art, Chicago, IL
 img: /assets/img/gradient1.png
 importance: 2
@@ -8,6 +8,8 @@ category: Creative
 ---
 
 Online symposium entitled ["Health Humanities in Times of Crisis"](https://smartmuseum.uchicago.edu/events/1849/health-humanities-in-times-of-crisis/){:target="\_blank"}, organized with the Smart Museum of Art.
+
+View the associated Health Humanities Education brief [here](https://drive.google.com/file/d/1potB8-DpGeAMf1TMmLoxuGQXlF__myTD/preview" width="800" height="600" allow="autoplay").
 
 **Background**
 
