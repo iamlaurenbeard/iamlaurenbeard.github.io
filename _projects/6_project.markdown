@@ -23,7 +23,7 @@ category: Creative
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_6476.jpg">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0522.jpg">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_0522.png">
     </div>
 </div>
 <div class="caption">
