@@ -29,6 +29,18 @@ category: Creative
 <div class="caption">
     
 </div>
+<!-- row 3 -->
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2926_051221">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_3058_051221">
+    </div>
+</div>
+<div class="caption">
+    
+</div>
 <!-- end -->
 <!-- start -->
 <span style="font-size:1.25em;">**Waters**</span>
@@ -64,4 +76,17 @@ category: Creative
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2648.jpg">
     </div>
 </div>    
+
+<!-- row 2 -->
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2034_051221">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2693_051221">
+    </div>
+</div>
+<div class="caption">
+    
+</div>
 <!-- end -->
