@@ -32,10 +32,10 @@ category: Creative
 <!-- row 3 -->
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2926_051221">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2926_051221.png">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_3058_051221">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_3058_051221.png">
     </div>
 </div>
 <div class="caption">
@@ -80,10 +80,10 @@ category: Creative
 <!-- row 2 -->
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2034_051221">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2034_051221.png">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2693_051221">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/naturePhotos/IMG_2693_051221.png">
     </div>
 </div>
 <div class="caption">
